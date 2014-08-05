@@ -1,0 +1,12 @@
+# Site settings
+title: Gerrit Thurston
+email: gerrit.thurston@gmail.com
+description: "Gerrit Thurston is a Brooklyn based actor."
+baseurl: ""
+url: "http://gerritthurston.com"
+twitter_username: gerritthurston
+github_username:  dorothythurston
+
+# Build settings
+markdown: kramdown
+permalink: pretty
