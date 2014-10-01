@@ -166,6 +166,12 @@ a:visited { color: #205caa; }
   text-align: center;
 }
 
+.levitsburg {
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
+}
+
 h1 { 
   text-align: center;
 }
