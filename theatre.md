@@ -3,8 +3,8 @@ layout: page
 title: Theatre
 permalink: /theatre/
 ---
-<div class='levitsburg'>
-  <p class='title'> Levitsburg </p>
+<div class='leavitsburg'>
+  <p class='title'> Leavitsburg </p>
   <p class='description'> 2009 ... 4 min </p>
   <a href="//fast.wistia.net/embed/iframe/4pypa9azyz?popover=true"
 class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
