@@ -155,6 +155,11 @@ a:visited { color: #205caa; }
   font-size: 1.8em;
 }
 
+.two-hearts {
+  display: inline-block;
+  text-align: center;
+}
+
 .the-blog {
   display: inline-block;
   text-align: center;
