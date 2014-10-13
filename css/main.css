@@ -153,33 +153,33 @@ a:visited { color: #205caa; }
 
 .title {
   font-size: 1.8em;
+  padding-left: 20px;
 }
 
-.seagull {
+.seagull p {
   display: inline-block;
-  text-align: center;
 }
 
-.two-hearts {
+.two-hearts p {
   display: inline-block;
-  text-align: center;
 }
 
-.the-blog {
+.the-blog p {
   display: inline-block;
-  text-align: center;
 }
 
-.appetite {
+.appetite p {
   display: inline-block;
-  margin-left: 50px;
-  text-align: center;
 }
 
-.leavitsburg {
+.leavitsburg p {
   display: inline-block;
-  margin-left: 50px;
-  text-align: center;
+}
+
+.reel {
+  padding-left: 20px;
+  text-align: left;
+  font-size: 36px;
 }
 
 h1 { 

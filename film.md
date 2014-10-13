@@ -1,44 +1,44 @@
 ---
 layout: page
-title: Film
-permalink: /film/
+title: Reel
+permalink: /reel/
 ---
+
+<div class='reel'> Film </div>
 <div class='two-hearts'>
-  <p class='title'> Two Hearts </p>
-  <p class='description'> 4 min abridged </p>
   <a href="//fast.wistia.net/embed/iframe/egjyhui9dd?popover=true"
 class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
 src="https://embed-ssl.wistia.com/deliveries/83f65f41cde7a2bf1d1599ebb7f39c20bd63550f.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
 alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> Two Hearts (Heartless Villain) </p>
+<p class='description'> 4 min abridged </p>
 </div>
 
 <div class='the-blog'>
-  <p class='title'> The Blog </p>
-  <p class='description'> Season One... 6 min </p>
   <a href="//fast.wistia.net/embed/iframe/j0g8gncytn?popover=true"
 class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
 src="https://embed-ssl.wistia.com/deliveries/d6757a6bc2070fed7212a714d512abed91809eaa.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
 alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> The Blog (College Humor) </p>
+<p class='description'> Season One... 6 min </p>
 </div>
 
 <div class='seagull'>
-  <p class='title'> The Seagull </p>
-  <p class='description'> 2 min abridged </p>
   <a href="//fast.wistia.net/embed/iframe/o06z2aph26?popover=true"
 class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
 src="https://embed-ssl.wistia.com/deliveries/0f71833cc480a0e4f2f5365eef35f1375c39fe51.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
 alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> The Seagull (Drama)</p>
+<p class='description'> 2 min abridged </p>
 </div>
 
 <div class='appetite'>
-  <p class='title'> Appetite </p>
-  <p class='description'> 5 min abridged </p>
   <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
   <a href="//fast.wistia.net/embed/iframe/rp5ugtkc3e?popover=true"
@@ -47,4 +47,19 @@ src="//fast.wistia.com/assets/external/popover-v1.js"></script>
   alt="" /></a>
   <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> Appetite (Frat Humor)</p>
+<p class='description'> 5 min abridged </p>
+</div>
+
+<div class='reel'> Theatre </div>
+
+<div class='leavitsburg'>
+  <a href="//fast.wistia.net/embed/iframe/4pypa9azyz?popover=true"
+class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
+src="https://embed-ssl.wistia.com/deliveries/9d955bc7cc88c7737b0a770bc28284aa6025a807.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
+alt="" /></a>
+<script charset="ISO-8859-1"
+src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> Leavitsburg (War Hero) </p>
+<p class='description'> 2009 ... 4 min </p>
 </div>
