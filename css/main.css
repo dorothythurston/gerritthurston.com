@@ -155,6 +155,11 @@ a:visited { color: #205caa; }
   font-size: 1.8em;
 }
 
+.seagull {
+  display: inline-block;
+  text-align: center;
+}
+
 .two-hearts {
   display: inline-block;
   text-align: center;

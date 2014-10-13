@@ -13,6 +13,7 @@ alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 </div>
+
 <div class='the-blog'>
   <p class='title'> The Blog </p>
   <p class='description'> Season One... 6 min </p>
@@ -23,6 +24,18 @@ alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 </div>
+
+<div class='seagull'>
+  <p class='title'> The Seagull </p>
+  <p class='description'> 2 min abridged </p>
+  <a href="//fast.wistia.net/embed/iframe/o06z2aph26?popover=true"
+class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
+src="https://embed-ssl.wistia.com/deliveries/0f71833cc480a0e4f2f5365eef35f1375c39fe51.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
+alt="" /></a>
+<script charset="ISO-8859-1"
+src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+</div>
+
 <div class='appetite'>
   <p class='title'> Appetite </p>
   <p class='description'> 5 min abridged </p>
