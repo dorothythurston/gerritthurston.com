@@ -63,3 +63,14 @@ src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 <p class='title'> Leavitsburg (War Hero) </p>
 <p class='description'> 2009 ... 4 min </p>
 </div>
+
+<div class='leavitsburg'>
+<a href="//fast.wistia.net/embed/iframe/aw2vhjl89e?popover=true"
+class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
+src="https://embed-ssl.wistia.com/deliveries/86879868b3312fe49c571ce12520513d4f2951c1.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
+alt="" /></a>
+<script charset="ISO-8859-1"
+src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> Straight White Men (Normal Guy) </p>
+<p class='description'> 2013 ... 10 min </p>
+</div>
