@@ -74,3 +74,13 @@ src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 <p class='title'> Straight White Men (Normal Guy) </p>
 <p class='description'> 2013 ... 10 min </p>
 </div>
+<div class='leavitsburg'>
+<a href="//fast.wistia.net/embed/iframe/3n0fz4crgt?popover=true"
+class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
+src="https://embed-ssl.wistia.com/deliveries/54c36b15f992455207181037153992254315069f.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
+alt="" /></a>
+<script charset="ISO-8859-1"
+src="//fast.wistia.com/assets/external/popover-v1.js"></script>
+<p class='title'> Lady Windermere's Fan (English Guy) </p>
+<p class='description'> 2012 ... 10min </p>
+</div>
