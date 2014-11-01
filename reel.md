@@ -65,9 +65,9 @@ src="//fast.wistia.com/assets/external/popover-v1.js"></script>
 </div>
 
 <div class='leavitsburg'>
-<a href="//fast.wistia.net/embed/iframe/aw2vhjl89e?popover=true"
+<a href="//fast.wistia.net/embed/iframe/4eyvonbjiw?popover=true"
 class="wistia-popover[height=360,playerColor=7b796a,width=640]"><img
-src="https://embed-ssl.wistia.com/deliveries/86879868b3312fe49c571ce12520513d4f2951c1.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
+src="https://embed-ssl.wistia.com/deliveries/64f37bfd563170c3055e0338368fb3ad5ed056ae.jpg?image_play_button=true&image_play_button_color=7b796ae0&image_crop_resized=150x84"
 alt="" /></a>
 <script charset="ISO-8859-1"
 src="//fast.wistia.com/assets/external/popover-v1.js"></script>
